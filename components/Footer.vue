@@ -30,7 +30,7 @@
         <NuxtLink to="">
           <Icon icon="ion:logo-instagram" class="w-14 h-14" />
         </NuxtLink>
-        <NuxtLink to="">
+        <NuxtLink to="https://github.com/HairyOtter07/mr-amador" target="_blank">
           <Icon icon="ion:logo-github" class="w-14 h-14" />
         </NuxtLink>
       </div>

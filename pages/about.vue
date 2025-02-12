@@ -26,7 +26,7 @@
           The Mr. Amador SHOW is the program's magnum opus. The boys each perform a skit relating to the theme of the show. In the past the show's themes have been music genres, movies, and superheroes.
         </Card>
       </div>
-      <NuxtLink to="https://georgemark.org/" class="font-mono text-[#e49bff] underline font-semibold text-2xl flex flex-row items-center space-x-2">
+      <NuxtLink to="https://georgemark.org/" target="_blank" class="font-mono text-[#e49bff] underline font-semibold text-2xl flex flex-row items-center space-x-2">
         <p>
           Learn more about George Marks Children's House 
         </p>
