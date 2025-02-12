@@ -1,0 +1,2 @@
+# Mr. Amador
+This GitHub repo hosts the code for the Mr. Amador website. Mr. Amador is a student-run show that aims to raise money for George Marks Children's House. Visit the website at [mr-amador.hairyotter07.dev](https://mr-amador.hairyotter07.dev)
